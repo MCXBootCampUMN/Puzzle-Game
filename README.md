@@ -9,7 +9,9 @@ A Sliding Puzzle Game with Alphabets
 
 ### How to use
 
-- Click on square you want to move
+- Click Paly to Start Game
+- Then click on squares near empty square
+- Square clicked on moves to empty square
 - That square becomes empty after
 - Timer will start upon first move
 - Able to reset square pieces
