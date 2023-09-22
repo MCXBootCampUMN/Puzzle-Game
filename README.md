@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Puzzle-Game)
 ![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Puzzle-Game)
 
-## Portfolio 1 Project (JS)
+## Portfolio 1 Project Application 1 (JS)
 
 ### Purpose
 
