@@ -32,12 +32,12 @@ A Sliding Puzzle Game with Alphabets
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[Github-Project](https://mcxbootcampumn.github.io/Puzzle-Game/)
+[GitHub-Project](https://mcxbootcampumn.github.io/Puzzle-Game/)
 
 
 ## **_Link URL to GitHub Repository_**
 
-[Github-Repo](https://github.com/MCXBootCampUMN/Puzzle-Game)
+[GitHub-Repo](https://github.com/MCXBootCampUMN/Puzzle-Game)
 
 #### images
 
