@@ -3,6 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/MCXBootCampUMN/Puzzle-Game)
 ![GitHub top language](https://img.shields.io/github/languages/top/MCXBootCampUMN/Puzzle-Game)
 
+## Game Project
+
 ### Purpose
 
 A Sliding Puzzle Game with Alphabets
